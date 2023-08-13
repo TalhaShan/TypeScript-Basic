@@ -1,0 +1,2 @@
+1. Making class export will make them for other to import or as module
+2. Ts only support single inheirtence you can implemnet multiple interfaces.
