@@ -1,0 +1,3 @@
+1. Making class export will make them for other to import or as module
+2. Ts only support single inheirtence you can implemnet multiple interfaces.
+3. You can make interface object like array and push the classes object that have implemnet that interface
